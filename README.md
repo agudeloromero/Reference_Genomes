@@ -4,7 +4,7 @@ Examples for downloading reference genomes using wget command.
 
 Current example is based on human genome (Homo sapiens - GRCh38, release 106) from emsembl (http://ensemblgenomes.org).
 
-Other genomes can be downloaded here:
+Other genomes can be downloaded from the list below, looking for the genome of interest and clicking on the link to copy the link:
 * Vertebrates genome as mice (http://asia.ensembl.org/info/data/ftp/index.html/). 
 * Plants genomes as arabidiosis, rice, grape (http://plants.ensembl.org/info/data/ftp/index.html). 
 * Bacteria genomes as pseudomonas  (https://bacteria.ensembl.org/info/data/ftp/index.html)

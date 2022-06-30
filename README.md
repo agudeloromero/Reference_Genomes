@@ -12,7 +12,7 @@ Other genomes can be downloaded here:
 * Protist genomes as phytophthora (http://protists.ensembl.org/info/data/ftp/index.html).
 * Metazoa genomes as drosophila (http://metazoa.ensembl.org/info/data/ftp/index.html).
 
-<-- http://ftp.ensembl.org/pub/release-106/fasta/homo_sapiens/dna/ -->
+<!-- http://ftp.ensembl.org/pub/release-106/fasta/homo_sapiens/dna/ -->
 
 (1) For transcriptome analisys using STAR, we will need both dna-fasta and gft/gff3 files.
 ```
